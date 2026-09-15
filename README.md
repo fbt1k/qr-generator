@@ -1,1 +1,1 @@
-# qr-generator
+#CLI Генератор QR-кодов на Python
